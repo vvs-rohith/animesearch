@@ -1,0 +1,550 @@
+{
+    "Genere": "Adventure",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Pandora Hearts",
+            "Score": "7.69",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Mystery",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Fairy Tail: Final Series",
+            "Score": "7.53",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+            "Score": "6.49",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Harem"
+            ]
+        },
+        {
+            "Name": "Tenkuu no Shiro Laputa",
+            "Score": "8.28",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kaifuku Jutsushi no Yarinaoshi",
+            "Score": "6.31",
+            "Genere": [
+                "Adventure",
+                "Harem",
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Cardcaptor Sakura",
+            "Score": "8.15",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "School",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima F",
+            "Score": "7.48",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shingeki no Bahamut: Genesis",
+            "Score": "7.65",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Digimon Adventure",
+            "Score": "7.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Kids"
+            ]
+        },
+        {
+            "Name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+            "Score": "7.56",
+            "Genere": [
+                "Action",
+                "Game",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Bakemono no Ko",
+            "Score": "8.30",
+            "Genere": [
+                "Adventure",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Hitsugi no Chaika",
+            "Score": "7.26",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Arslan Senki (TV)",
+            "Score": "7.69",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Historical",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yu\u2606Gi\u2606Oh! Duel Monsters",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shaman King",
+            "Score": "7.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tate no Yuusha no Nariagari Season 2",
+            "Score": "N/A",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "Score": "7.86",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Afro Samurai",
+            "Score": "7.36",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Samurai"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Kai",
+            "Score": "7.71",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Kaze no Tani no Nausica\u00e4",
+            "Score": "8.38",
+            "Genere": [
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Suisei no Gargantia",
+            "Score": "7.48",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+            "Score": "8.42",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Fantasy",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Jormungand",
+            "Score": "7.83",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Madan no Ou to Vanadis",
+            "Score": "7.15",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Wolf's Rain",
+            "Score": "7.82",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Mystery",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Berserk",
+            "Score": "6.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Romance",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tales of Zestiria the Cross",
+            "Score": "7.28",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Golden Boy",
+            "Score": "8.02",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "Score": "8.05",
+            "Genere": [
+                "Magic",
+                "Adventure",
+                "Fantasy",
+                "Comedy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Stranger: Mukou Hadan",
+            "Score": "8.30",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Historical",
+                "Samurai"
+            ]
+        },
+        {
+            "Name": "Detective Conan",
+            "Score": "8.16",
+            "Genere": [
+                "Adventure",
+                "Mystery",
+                "Comedy",
+                "Police",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Little Witch Academia",
+            "Score": "7.83",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Noragami OVA",
+            "Score": "7.74",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+            "Score": "7.70",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Military"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Extra Edition",
+            "Score": "6.57",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Game",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+            "Score": "8.71",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Mystery",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Majo no Tabitabi",
+            "Score": "7.55",
+            "Genere": [
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Golden Kamuy",
+            "Score": "7.84",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Historical",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Densetsu no Yuusha no Densetsu",
+            "Score": "7.57",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Fundo no Shinpan",
+            "Score": "6.63",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+            "Score": "7.66",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Super: Broly",
+            "Score": "8.11",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kumo Desu ga, Nani ka?",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Mystery"
+            ]
+        },
+        {
+            "Name": "Shoujo Shuumatsu Ryokou",
+            "Score": "8.19",
+            "Genere": [
+                "Adventure",
+                "Mystery",
+                "Sci-Fi",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Eizouken ni wa Te wo Dasu na!",
+            "Score": "8.16",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Soredemo Sekai wa Utsukushii",
+            "Score": "7.64",
+            "Genere": [
+                "Adventure",
+                "Romance",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Mushishi Zoku Shou",
+            "Score": "8.71",
+            "Genere": [
+                "Adventure",
+                "Slice_of_Life",
+                "Mystery",
+                "Historical",
+                "Supernatural",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kino no Tabi: The Beautiful World",
+            "Score": "8.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Psychological",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Black Cat (TV)",
+            "Score": "7.36",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Shounen"
+            ]
+        }
+    ]
+}

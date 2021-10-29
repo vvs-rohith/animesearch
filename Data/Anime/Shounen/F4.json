@@ -1,0 +1,573 @@
+{
+    "Genere": "Shounen",
+    "Index": 4,
+    "Data": [
+        {
+            "Name": "Kyokou Suiri",
+            "Score": "6.93",
+            "Genere": [
+                "Mystery",
+                "Demons",
+                "Supernatural",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Air Gear",
+            "Score": "7.51",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Shounen",
+                "Sports"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru Darkness",
+            "Score": "7.47",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "World Trigger",
+            "Score": "7.58",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bakuman. 2nd Season",
+            "Score": "8.38",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mirai Nikki: Redial",
+            "Score": "7.36",
+            "Genere": [
+                "Action",
+                "Psychological",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Kai",
+            "Score": "7.71",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Sayonara Zetsubou Sensei",
+            "Score": "7.89",
+            "Genere": [
+                "Comedy",
+                "Parody",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Busou Shoujo Machiavellianism",
+            "Score": "6.93",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "Score": "7.55",
+            "Genere": [
+                "Military",
+                "Comedy",
+                "Historical",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kami nomi zo Shiru Sekai: Megami-hen",
+            "Score": "8.05",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "School Rumble",
+            "Score": "7.92",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Seto no Hanayome",
+            "Score": "7.72",
+            "Genere": [
+                "Comedy",
+                "Parody",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bakuman. 3rd Season",
+            "Score": "8.56",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Beastars 2nd Season",
+            "Score": "7.97",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Motto To LOVE-Ru",
+            "Score": "7.31",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin: The Final Season Part 2",
+            "Score": "N/A",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Detective Conan",
+            "Score": "8.16",
+            "Genere": [
+                "Adventure",
+                "Mystery",
+                "Comedy",
+                "Police",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Beck",
+            "Score": "8.31",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Music",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Code:Breaker",
+            "Score": "6.77",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Noragami OVA",
+            "Score": "7.74",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mairimashita! Iruma-kun",
+            "Score": "7.72",
+            "Genere": [
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Plunderer",
+            "Score": "6.54",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Isshuukan Friends.",
+            "Score": "7.55",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kishuku Gakkou no Juliet",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Densetsu no Yuusha no Densetsu",
+            "Score": "7.57",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Fundo no Shinpan",
+            "Score": "6.63",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sora no Otoshimono: Forte",
+            "Score": "7.51",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Sci-Fi",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shijou Saikyou no Deshi Kenichi",
+            "Score": "8.09",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Martial_Arts",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+            "Score": "7.66",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Super: Broly",
+            "Score": "8.11",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ballroom e Youkoso",
+            "Score": "8.20",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "School",
+                "Shounen",
+                "Sports"
+            ]
+        },
+        {
+            "Name": "Gintama': Enchousen",
+            "Score": "9.04",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gin no Saji",
+            "Score": "8.10",
+            "Genere": [
+                "Comedy",
+                "School",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Fuuka",
+            "Score": "6.52",
+            "Genere": [
+                "Drama",
+                "Ecchi",
+                "Music",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kemono Jihen",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Araburu Kisetsu no Otome-domo yo.",
+            "Score": "7.43",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kakushigoto (TV)",
+            "Score": "8.00",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Black Cat (TV)",
+            "Score": "7.36",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yuukoku no Moriarty",
+            "Score": "8.10",
+            "Genere": [
+                "Mystery",
+                "Historical",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+            "Score": "8.72",
+            "Genere": [
+                "Action",
+                "Historical",
+                "Drama",
+                "Romance",
+                "Martial_Arts",
+                "Samurai",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Okusama ga Seitokaichou!",
+            "Score": "6.62",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+            "Score": "7.10",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden Movie 1",
+            "Score": "7.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nurarihyon no Mago",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Love Hina",
+            "Score": "7.12",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+            "Score": "8.13",
+            "Genere": [
+                "Slice_of_Life",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bleach Movie 1: Memories of Nobody",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gintama.",
+            "Score": "8.98",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "InuYasha: Kanketsu-hen",
+            "Score": "8.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        }
+    ]
+}

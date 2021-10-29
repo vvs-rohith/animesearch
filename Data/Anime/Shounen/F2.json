@@ -1,0 +1,577 @@
+{
+    "Genere": "Shounen",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "Score": "7.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Magi: The Labyrinth of Magic",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gintama",
+            "Score": "8.95",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dororo",
+            "Score": "8.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Historical",
+                "Samurai",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+            "Score": "8.09",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball",
+            "Score": "7.97",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Fairy Tail (2014)",
+            "Score": "7.68",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+            "Score": "8.43",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: San no Sara",
+            "Score": "8.07",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Saiki Kusuo no \u03a8-nan",
+            "Score": "8.43",
+            "Genere": [
+                "Comedy",
+                "School",
+                "Shounen",
+                "Slice_of_Life",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Horimiya",
+            "Score": "8.22",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+            "Score": "8.74",
+            "Genere": [
+                "Action",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nichijou",
+            "Score": "8.47",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Magi: The Kingdom of Magic",
+            "Score": "8.25",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mahoutsukai no Yome",
+            "Score": "8.08",
+            "Genere": [
+                "Slice_of_Life",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kekkai Sensen",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Vampire",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yakusoku no Neverland 2nd Season",
+            "Score": "5.50",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Trinity Seven",
+            "Score": "7.12",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+            "Score": "8.59",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kuroko no Basket 2nd Season",
+            "Score": "8.25",
+            "Genere": [
+                "Comedy",
+                "Sports",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia 5th Season",
+            "Score": "7.55",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Great Teacher Onizuka",
+            "Score": "8.70",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dr. Stone: Stone Wars",
+            "Score": "8.20",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "InuYasha",
+            "Score": "7.85",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Masamune-kun no Revenge",
+            "Score": "6.78",
+            "Genere": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boruto: Naruto Next Generations",
+            "Score": "5.84",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kanojo, Okarishimasu",
+            "Score": "7.34",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yamada-kun to 7-nin no Majo (TV)",
+            "Score": "7.60",
+            "Genere": [
+                "Harem",
+                "Mystery",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Super",
+            "Score": "7.40",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "5-toubun no Hanayome",
+            "Score": "7.67",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Haikyuu!!: To the Top",
+            "Score": "8.36",
+            "Genere": [
+                "Comedy",
+                "Sports",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Owari no Seraph: Nagoya Kessen-hen",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Military",
+                "Supernatural",
+                "Drama",
+                "Vampire",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Beastars",
+            "Score": "7.95",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Trigun",
+            "Score": "8.23",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "D.Gray-man",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Demons",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "Score": "7.39",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Rosario to Vampire",
+            "Score": "6.80",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Vampire",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kuroko no Basket 3rd Season",
+            "Score": "8.32",
+            "Genere": [
+                "Comedy",
+                "Sports",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Claymore",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nisekoi:",
+            "Score": "7.37",
+            "Genere": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Seisen no Shirushi",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tsurezure Children",
+            "Score": "7.62",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+            "Score": "8.02",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kakegurui\u00d7\u00d7",
+            "Score": "7.23",
+            "Genere": [
+                "Drama",
+                "Game",
+                "Mystery",
+                "Psychological",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kami nomi zo Shiru Sekai",
+            "Score": "7.70",
+            "Genere": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia the Movie 1: Futari no Hero",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Yuu\u2606Yuu\u2606Hakusho",
+            "Score": "8.45",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru",
+            "Score": "7.03",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bakuman.",
+            "Score": "8.21",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Shounen"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,569 @@
+{
+    "Genere": "Action",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "JoJo no Kimyou na Bouken (TV)",
+            "Score": "7.97",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Vampire",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tate no Yuusha no Nariagari",
+            "Score": "8.01",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Black Clover",
+            "Score": "8.03",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ansatsu Kyoushitsu 2nd Season",
+            "Score": "8.52",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Guilty Crown",
+            "Score": "7.47",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Super_Power",
+                "Drama",
+                "Romance",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Deadman Wonderland",
+            "Score": "7.19",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Sci-Fi",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Mob Psycho 100 II",
+            "Score": "8.82",
+            "Genere": [
+                "Action",
+                "Slice_of_Life",
+                "Comedy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Owari no Seraph",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Military",
+                "Supernatural",
+                "Drama",
+                "Vampire",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Samurai Champloo",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Samurai",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Z",
+            "Score": "8.15",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mononoke Hime",
+            "Score": "8.70",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kuroshitsuji",
+            "Score": "7.71",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bungou Stray Dogs",
+            "Score": "7.80",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Mystery",
+                "Seinen",
+                "Super_Power",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Log Horizon",
+            "Score": "7.97",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Tensei shitara Slime Datta Ken",
+            "Score": "8.10",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fate/Zero 2nd Season",
+            "Score": "8.58",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Enen no Shouboutai",
+            "Score": "7.67",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "Score": "7.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Vinland Saga",
+            "Score": "8.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Historical",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul:re",
+            "Score": "6.43",
+            "Genere": [
+                "Action",
+                "Psychological",
+                "Supernatural",
+                "Mystery",
+                "Drama",
+                "Horror",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Magi: The Labyrinth of Magic",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mahouka Koukou no Rettousei",
+            "Score": "7.48",
+            "Genere": [
+                "Action",
+                "Magic",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gintama",
+            "Score": "8.95",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dororo",
+            "Score": "8.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Historical",
+                "Samurai",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+            "Score": "8.09",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fate/stay night: Unlimited Blade Works",
+            "Score": "8.20",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Goblin Slayer",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Devilman: Crybaby",
+            "Score": "7.80",
+            "Genere": [
+                "Action",
+                "Dementia",
+                "Demons",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Darker than Black: Kuro no Keiyakusha",
+            "Score": "8.10",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Mystery",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Fate/stay night",
+            "Score": "7.31",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fairy Tail (2014)",
+            "Score": "7.68",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Black Lagoon",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Black Bullet",
+            "Score": "7.14",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Mystery",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Alicization",
+            "Score": "7.55",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Baccano!",
+            "Score": "8.40",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Mystery",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+            "Score": "8.43",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "High School DxD New",
+            "Score": "7.51",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Overlord II",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Hellsing Ultimate",
+            "Score": "8.38",
+            "Genere": [
+                "Action",
+                "Military",
+                "Horror",
+                "Supernatural",
+                "Vampire",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+            "Score": "8.74",
+            "Genere": [
+                "Action",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Rakudai Kishi no Cavalry",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Btooom!",
+            "Score": "7.35",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Magi: The Kingdom of Magic",
+            "Score": "8.25",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima",
+            "Score": "7.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kekkai Sensen",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Vampire",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Youjo Senki",
+            "Score": "7.98",
+            "Genere": [
+                "Action",
+                "Military",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "Score": "8.33",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Toaru Majutsu no Index",
+            "Score": "7.41",
+            "Genere": [
+                "Action",
+                "Magic",
+                "Sci-Fi",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Trinity Seven",
+            "Score": "7.12",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        }
+    ]
+}

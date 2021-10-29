@@ -1,0 +1,586 @@
+{
+    "Genere": "Ecchi",
+    "Index": 1,
+    "Data": [
+        {
+            "Name": "No Game No Life",
+            "Score": "8.15",
+            "Genere": [
+                "Game",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kill la Kill",
+            "Score": "8.07",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma",
+            "Score": "8.23",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Highschool of the Dead",
+            "Score": "7.11",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "High School DxD",
+            "Score": "7.37",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Ni no Sara",
+            "Score": "8.15",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Prison School",
+            "Score": "7.66",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Romance",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: San no Sara",
+            "Score": "8.07",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "High School DxD New",
+            "Score": "7.51",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Rakudai Kishi no Cavalry",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima",
+            "Score": "7.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Boku wa Tomodachi ga Sukunai",
+            "Score": "7.23",
+            "Genere": [
+                "Ecchi",
+                "Slice_of_Life",
+                "Comedy",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Trinity Seven",
+            "Score": "7.12",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "High School DxD BorN",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Demons",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+            "Score": "7.29",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "Score": "8.37",
+            "Genere": [
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Nisemonogatari",
+            "Score": "8.17",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Supernatural",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Monster Musume no Iru Nichijou",
+            "Score": "7.03",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Rosario to Vampire",
+            "Score": "6.80",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Vampire",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Eromanga-sensei",
+            "Score": "6.43",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+            "Score": "8.02",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kore wa Zombie Desu ka?",
+            "Score": "7.40",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "IS: Infinite Stratos",
+            "Score": "6.70",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Strike the Blood",
+            "Score": "7.10",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Ecchi",
+                "Vampire",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Gakusen Toshi Asterisk",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shinmai Maou no Testament",
+            "Score": "6.76",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Harem",
+                "Demons"
+            ]
+        },
+        {
+            "Name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+            "Score": "6.93",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru",
+            "Score": "7.03",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Saenai Heroine no Sodatekata",
+            "Score": "7.51",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Sankarea",
+            "Score": "7.33",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Horror",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kiss x Sis (TV)",
+            "Score": "6.68",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Absolute Duo",
+            "Score": "6.48",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Nekomonogatari: Kuro",
+            "Score": "7.96",
+            "Genere": [
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Shin no Sara",
+            "Score": "7.75",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Score": "7.45",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ichiban Ushiro no Daimaou",
+            "Score": "6.83",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+            "Score": "6.78",
+            "Genere": [
+                "Game",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Chobits",
+            "Score": "7.42",
+            "Genere": [
+                "Sci-Fi",
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Mayo Chiki!",
+            "Score": "7.28",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Sora no Otoshimono",
+            "Score": "7.32",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+            "Score": "6.18",
+            "Genere": [
+                "Drama",
+                "Ecchi",
+                "Harem",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Hajimete no Gal",
+            "Score": "6.29",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Score": "7.37",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kaifuku Jutsushi no Yarinaoshi",
+            "Score": "6.31",
+            "Genere": [
+                "Adventure",
+                "Harem",
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "High School DxD Hero",
+            "Score": "7.26",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Rosario to Vampire Capu2",
+            "Score": "6.95",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Ishuzoku Reviewers",
+            "Score": "7.52",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Gou no Sara",
+            "Score": "7.33",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima F",
+            "Score": "7.48",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Dakara Boku wa, H ga Dekinai.",
+            "Score": "6.60",
+            "Genere": [
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi"
+            ]
+        }
+    ]
+}

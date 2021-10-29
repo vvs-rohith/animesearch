@@ -1,0 +1,596 @@
+{
+    "Genere": "Harem",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "Kami nomi zo Shiru Sekai II",
+            "Score": "7.92",
+            "Genere": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Grisaia no Rakuen",
+            "Score": "7.82",
+            "Genere": [
+                "Drama",
+                "Harem",
+                "Psychological",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Kore wa Zombie Desu ka? of the Dead",
+            "Score": "7.53",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "IS: Infinite Stratos 2",
+            "Score": "6.51",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Ore wo Suki nano wa Omae dake ka yo",
+            "Score": "7.36",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+            "Score": "7.00",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Bokutachi wa Benkyou ga Dekinai",
+            "Score": "7.31",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Saijaku Muhai no Bahamut",
+            "Score": "6.58",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shinmai Maou no Testament Burst",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Harem",
+                "Demons"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru Darkness",
+            "Score": "7.47",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Seireitsukai no Blade Dance",
+            "Score": "6.77",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+            "Score": "7.50",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Fantasy",
+                "School",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Hundred",
+            "Score": "6.34",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Harem",
+                "Romance",
+                "Ecchi",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Outbreak Company",
+            "Score": "7.26",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Parody",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Renai Boukun",
+            "Score": "6.66",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kami nomi zo Shiru Sekai: Megami-hen",
+            "Score": "8.05",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Madan no Ou to Vanadis",
+            "Score": "7.15",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Freezing",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Harem",
+                "Drama",
+                "Romance",
+                "Ecchi",
+                "Martial_Arts",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Diabolik Lovers",
+            "Score": "5.25",
+            "Genere": [
+                "Harem",
+                "School",
+                "Shoujo",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Motto To LOVE-Ru",
+            "Score": "7.31",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Saenai Heroine no Sodatekata \u266d",
+            "Score": "7.79",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kiss x Sis",
+            "Score": "6.90",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Date A Live III",
+            "Score": "7.16",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ch\u00e4oS;HEAd",
+            "Score": "6.34",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Taimadou Gakuen 35 Shiken Shoutai",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Military",
+                "Romance",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Sora no Otoshimono: Forte",
+            "Score": "7.51",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Sci-Fi",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Amnesia",
+            "Score": "6.04",
+            "Genere": [
+                "Harem",
+                "Mystery",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Seiken Tsukai no World Break",
+            "Score": "6.85",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+            "Score": "6.49",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shuffle!",
+            "Score": "7.07",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Maji de Watashi ni Koi Shinasai!",
+            "Score": "6.73",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Super_Power",
+                "Romance",
+                "Ecchi",
+                "Martial_Arts",
+                "School"
+            ]
+        },
+        {
+            "Name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu \u03a9",
+            "Score": "6.73",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Mangaka-san to Assistant-san to The Animation",
+            "Score": "7.15",
+            "Genere": [
+                "Harem",
+                "Slice_of_Life",
+                "Comedy",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Maken-Ki!",
+            "Score": "6.37",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Harem",
+                "Martial_Arts",
+                "School",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Love Hina",
+            "Score": "7.12",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Nyan Koi!",
+            "Score": "7.17",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Ore dake Haireru Kakushi Dungeon",
+            "Score": "6.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+            "Score": "6.56",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Masou Gakuen HxH",
+            "Score": "6.15",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets\u2665Sareta Ken",
+            "Score": "6.76",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Yuragi-sou no Yuuna-san",
+            "Score": "7.03",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kanokon",
+            "Score": "6.43",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Shounen",
+                "Slice_of_Life",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Bokutachi wa Benkyou ga Dekinai!",
+            "Score": "7.35",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "MM!",
+            "Score": "7.09",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru Darkness 2nd",
+            "Score": "7.47",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Omamori Himari",
+            "Score": "6.89",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+            "Score": "6.26",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Sekirei: Pure Engagement",
+            "Score": "7.32",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Hayate no Gotoku!",
+            "Score": "7.55",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Parody",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Princess Lover!",
+            "Score": "6.75",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School"
+            ]
+        }
+    ]
+}

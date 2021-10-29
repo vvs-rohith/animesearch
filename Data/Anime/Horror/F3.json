@@ -1,0 +1,541 @@
+{
+    "Genere": "Horror",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Higurashi no Naku Koro ni Sotsu",
+            "Score": "7.94",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Gibiate",
+            "Score": "3.82",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Martial_Arts",
+                "Samurai",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Hametsu no Mars",
+            "Score": "2.23",
+            "Genere": [
+                "Sci-Fi",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Ayashi no Ceres",
+            "Score": "7.22",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Petshop of Horrors",
+            "Score": "7.26",
+            "Genere": [
+                "Horror",
+                "Josei",
+                "Mystery",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken: Phantom Blood",
+            "Score": "7.70",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Horror",
+                "Shounen",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Gyo",
+            "Score": "5.41",
+            "Genere": [
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Yami no Matsuei",
+            "Score": "7.05",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Magic",
+                "Shoujo",
+                "Shounen_Ai",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Jigoku Shoujo: Yoi no Togi",
+            "Score": "6.56",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Uzumaki",
+            "Score": "N/A",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Gegege no Kitarou (2018)",
+            "Score": "7.22",
+            "Genere": [
+                "Comedy",
+                "Horror",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Chika Gentou Gekiga: Shoujo Tsubaki",
+            "Score": "4.95",
+            "Genere": [
+                "Drama",
+                "Historical",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Tokkou",
+            "Score": "6.56",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Comedy",
+                "Horror",
+                "Police",
+                "Supernatural",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Ajin OVA",
+            "Score": "7.22",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Supernatural",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Yami Shibai 2",
+            "Score": "6.49",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ajin Part 1: Shoudou",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Mystery",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Mieruko-chan",
+            "Score": "N/A",
+            "Genere": [
+                "Comedy",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Hellsing: Digest for Freaks",
+            "Score": "7.66",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Military",
+                "Seinen",
+                "Super_Power",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Youjuu Toshi",
+            "Score": "6.45",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Horror",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+            "Score": "6.68",
+            "Genere": [
+                "Adventure",
+                "Horror",
+                "Magic",
+                "Martial_Arts",
+                "Samurai",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+            "Score": "7.50",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+            "Score": "7.50",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dorohedoro: Ma no Omake",
+            "Score": "7.11",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Horror",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kakurenbo",
+            "Score": "6.72",
+            "Genere": [
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kyuuketsuhime Miyu (TV)",
+            "Score": "7.14",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Demons",
+                "Drama",
+                "Vampire",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Terra Formars: Bugs 2-hen",
+            "Score": "7.18",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Sci-Fi",
+                "Space"
+            ]
+        },
+        {
+            "Name": "X/1999",
+            "Score": "6.58",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Magic",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+            "Score": "7.25",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Drama",
+                "Martial_Arts",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+            "Score": "7.14",
+            "Genere": [
+                "Fantasy",
+                "Historical",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Biohazard: Degeneration",
+            "Score": "7.02",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kowabon",
+            "Score": "5.24",
+            "Genere": [
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Yami Shibai 3",
+            "Score": "6.30",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kagewani",
+            "Score": "6.41",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Alien 9",
+            "Score": "6.69",
+            "Genere": [
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "School"
+            ]
+        },
+        {
+            "Name": "Supernatural The Animation",
+            "Score": "7.00",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Genocyber",
+            "Score": "5.82",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Zombie-Loan Specials",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ayakashi",
+            "Score": "6.35",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Manie-Manie: Meikyuu Monogatari",
+            "Score": "7.05",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Horror",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Blue Seed",
+            "Score": "7.02",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Drama",
+                "Ecchi",
+                "Horror",
+                "Mystery",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Hells",
+            "Score": "6.90",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Blade",
+            "Score": "6.23",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "3x3 Eyes",
+            "Score": "6.75",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Fantasy",
+                "Horror",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Devilman: Tanjou-hen",
+            "Score": "7.15",
+            "Genere": [
+                "Demons",
+                "Horror",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Devilman",
+            "Score": "6.46",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Demons",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Yami Shibai 4",
+            "Score": "5.74",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Takahashi Rumiko Gekijou Ningyo no Mori",
+            "Score": "7.05",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Ajin Part 2: Shoutotsu",
+            "Score": "7.25",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Mystery",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "The SoulTaker: Tamashii-gari",
+            "Score": "6.37",
+            "Genere": [
+                "Demons",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tomie",
+            "Score": "6.01",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Josei",
+                "Supernatural"
+            ]
+        }
+    ]
+}

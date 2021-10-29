@@ -1,0 +1,557 @@
+{
+    "Genere": "Shounen",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Nanatsu no Taizai: Kamigami no Gekirin",
+            "Score": "6.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Domestic na Kanojo",
+            "Score": "6.73",
+            "Genere": [
+                "Drama",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball GT",
+            "Score": "6.46",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hataraku Saibou (TV)",
+            "Score": "7.59",
+            "Genere": [
+                "Comedy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zetsuen no Tempest",
+            "Score": "7.96",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sankarea",
+            "Score": "7.33",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Horror",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Haikyuu!!: To the Top 2nd Season",
+            "Score": "8.54",
+            "Genere": [
+                "Comedy",
+                "Sports",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tokyo Revengers",
+            "Score": "8.28",
+            "Genere": [
+                "Action",
+                "Drama",
+                "School",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Beelzebub",
+            "Score": "7.89",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Katekyo Hitman Reborn!",
+            "Score": "8.16",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Fumetsu no Anata e",
+            "Score": "8.58",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kuroshitsuji II",
+            "Score": "7.19",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Enen no Shouboutai: Ni no Shou",
+            "Score": "7.75",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hunter x Hunter",
+            "Score": "8.40",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gintama\u00b0",
+            "Score": "9.09",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tonikaku Kawaii",
+            "Score": "7.92",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Shin no Sara",
+            "Score": "7.75",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Saiki Kusuo no \u03a8-nan 2",
+            "Score": "8.45",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Inu x Boku SS",
+            "Score": "7.43",
+            "Genere": [
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "The Last: Naruto the Movie",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Romance",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "5-toubun no Hanayome \u222c",
+            "Score": "8.16",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Karakai Jouzu no Takagi-san",
+            "Score": "7.73",
+            "Genere": [
+                "Slice_of_Life",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hajime no Ippo",
+            "Score": "8.74",
+            "Genere": [
+                "Comedy",
+                "Sports",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Seitokai Yakuindomo",
+            "Score": "7.58",
+            "Genere": [
+                "Comedy",
+                "School",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Sousei no Onmyouji",
+            "Score": "7.31",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sora no Otoshimono",
+            "Score": "7.32",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+            "Score": "8.30",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Romance",
+                "Samurai",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gintama'",
+            "Score": "9.06",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Historical",
+                "Parody",
+                "Samurai",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hajimete no Gal",
+            "Score": "6.29",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Magi: Sinbad no Bouken (TV)",
+            "Score": "7.87",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Aho Girl",
+            "Score": "6.84",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Jibaku Shounen Hanako-kun",
+            "Score": "7.83",
+            "Genere": [
+                "Comedy",
+                "School",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Pandora Hearts",
+            "Score": "7.69",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Mystery",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gabriel DropOut",
+            "Score": "7.47",
+            "Genere": [
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fairy Tail: Final Series",
+            "Score": "7.53",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+            "Score": "8.06",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dagashi Kashi",
+            "Score": "6.62",
+            "Genere": [
+                "Comedy",
+                "Shounen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Darwin's Game",
+            "Score": "7.27",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Mystery",
+                "Super_Power",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boruto: Naruto the Movie",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Gou no Sara",
+            "Score": "7.33",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin OVA",
+            "Score": "7.85",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kami nomi zo Shiru Sekai II",
+            "Score": "7.92",
+            "Genere": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kekkai Sensen & Beyond",
+            "Score": "7.84",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Shounen",
+                "Super_Power",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Tasogare Otome x Amnesia",
+            "Score": "7.85",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Romance",
+                "School",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Keijo!!!!!!!!",
+            "Score": "6.98",
+            "Genere": [
+                "Action",
+                "Sports",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kuroshitsuji: Book of Circus",
+            "Score": "8.10",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Arslan Senki (TV)",
+            "Score": "7.69",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Historical",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yu\u2606Gi\u2606Oh! Duel Monsters",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bokutachi wa Benkyou ga Dekinai",
+            "Score": "7.31",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shaman King",
+            "Score": "7.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        }
+    ]
+}

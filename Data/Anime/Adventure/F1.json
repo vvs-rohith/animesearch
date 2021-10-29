@@ -1,0 +1,575 @@
+{
+    "Genere": "Adventure",
+    "Index": 1,
+    "Data": [
+        {
+            "Name": "Fullmetal Alchemist: Brotherhood",
+            "Score": "9.16",
+            "Genere": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online",
+            "Score": "7.21",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Naruto",
+            "Score": "7.94",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hunter x Hunter (2011)",
+            "Score": "9.07",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "No Game No Life",
+            "Score": "8.15",
+            "Genere": [
+                "Game",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden",
+            "Score": "8.20",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Noragami",
+            "Score": "7.98",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai",
+            "Score": "7.79",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Akame ga Kill!",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online II",
+            "Score": "6.73",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "One Piece",
+            "Score": "8.58",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "Score": "8.14",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Parody",
+                "Supernatural",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fairy Tail",
+            "Score": "7.61",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bleach",
+            "Score": "7.81",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sen to Chihiro no Kamikakushi",
+            "Score": "8.80",
+            "Genere": [
+                "Adventure",
+                "Supernatural",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Cowboy Bebop",
+            "Score": "8.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Sci-Fi",
+                "Space"
+            ]
+        },
+        {
+            "Name": "Tengen Toppa Gurren Lagann",
+            "Score": "8.65",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Fullmetal Alchemist",
+            "Score": "8.14",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dr. Stone",
+            "Score": "8.31",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Overlord",
+            "Score": "7.93",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Game",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Noragami Aragoto",
+            "Score": "8.19",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken (TV)",
+            "Score": "7.97",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Vampire",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "Score": "8.29",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Parody",
+                "Supernatural",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Tate no Yuusha no Nariagari",
+            "Score": "8.01",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Samurai Champloo",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Samurai",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Z",
+            "Score": "8.15",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Made in Abyss",
+            "Score": "8.71",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Mystery",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Mononoke Hime",
+            "Score": "8.70",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Howl no Ugoku Shiro",
+            "Score": "8.66",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Log Horizon",
+            "Score": "7.97",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Tensei shitara Slime Datta Ken",
+            "Score": "8.10",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+            "Score": "7.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Vinland Saga",
+            "Score": "8.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Historical",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Magi: The Labyrinth of Magic",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dororo",
+            "Score": "8.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Historical",
+                "Samurai",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+            "Score": "8.09",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Goblin Slayer",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dragon Ball",
+            "Score": "7.97",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Tonari no Totoro",
+            "Score": "8.28",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Fairy Tail (2014)",
+            "Score": "7.68",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Alicization",
+            "Score": "7.55",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+            "Score": "8.43",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Overlord II",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Magi: The Kingdom of Magic",
+            "Score": "8.25",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima",
+            "Score": "7.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ookami to Koushinryou",
+            "Score": "8.25",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Historical",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Mushishi",
+            "Score": "8.68",
+            "Genere": [
+                "Adventure",
+                "Slice_of_Life",
+                "Mystery",
+                "Historical",
+                "Supernatural",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+            "Score": "8.59",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Shounen"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,568 @@
+{
+    "Genere": "Fantasy",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+            "Score": "7.35",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Magic",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Hunter x Hunter",
+            "Score": "8.40",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "God Eater",
+            "Score": "7.25",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Military",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season",
+            "Score": "7.75",
+            "Genere": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Drifters",
+            "Score": "7.92",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Samurai",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima: Futatsuki no Kishi",
+            "Score": "7.45",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Arifureta Shokugyou de Sekai Saikyou",
+            "Score": "6.61",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Musaigen no Phantom World",
+            "Score": "6.87",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Slice_of_Life",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ichiban Ushiro no Daimaou",
+            "Score": "6.83",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Majo no Takkyuubin",
+            "Score": "8.22",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+            "Score": "7.52",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Ookami to Koushinryou II",
+            "Score": "8.35",
+            "Genere": [
+                "Adventure",
+                "Historical",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Gake no Ue no Ponyo",
+            "Score": "7.89",
+            "Genere": [
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Sousei no Onmyouji",
+            "Score": "7.31",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Paprika",
+            "Score": "8.06",
+            "Genere": [
+                "Dementia",
+                "Fantasy",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Sci-Fi",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kenja no Mago",
+            "Score": "6.57",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Isekai wa Smartphone to Tomo ni.",
+            "Score": "6.19",
+            "Genere": [
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Re:Creators",
+            "Score": "7.56",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Fantasy",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Magi: Sinbad no Bouken (TV)",
+            "Score": "7.87",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Maoyuu Maou Yuusha",
+            "Score": "7.28",
+            "Genere": [
+                "Adventure",
+                "Demons",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima: Princesses no Rondo",
+            "Score": "7.37",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Comedy",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+            "Score": "7.45",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin: Kuinaki Sentaku",
+            "Score": "8.41",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Fate/Apocrypha",
+            "Score": "7.17",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Drama",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Pandora Hearts",
+            "Score": "7.69",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Mystery",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Fairy Tail: Final Series",
+            "Score": "7.53",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+            "Score": "6.49",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Harem"
+            ]
+        },
+        {
+            "Name": "Tenkuu no Shiro Laputa",
+            "Score": "8.28",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kaifuku Jutsushi no Yarinaoshi",
+            "Score": "6.31",
+            "Genere": [
+                "Adventure",
+                "Harem",
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Rosario to Vampire Capu2",
+            "Score": "6.95",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Ishuzoku Reviewers",
+            "Score": "7.52",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Cardcaptor Sakura",
+            "Score": "8.15",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "School",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Zero no Tsukaima F",
+            "Score": "7.48",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Dorohedoro",
+            "Score": "8.09",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Horror",
+                "Magic",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Gakusen Toshi Asterisk 2nd Season",
+            "Score": "7.04",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shingeki no Bahamut: Genesis",
+            "Score": "7.65",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin OVA",
+            "Score": "7.85",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hagure Yuusha no Aesthetica",
+            "Score": "6.83",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Digimon Adventure",
+            "Score": "7.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Kids"
+            ]
+        },
+        {
+            "Name": "Demi-chan wa Kataritai",
+            "Score": "7.59",
+            "Genere": [
+                "Comedy",
+                "Vampire",
+                "Fantasy",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Houseki no Kuni (TV)",
+            "Score": "8.40",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Mystery",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+            "Score": "7.56",
+            "Genere": [
+                "Action",
+                "Game",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kekkai Sensen & Beyond",
+            "Score": "7.84",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Shounen",
+                "Super_Power",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+            "Score": "7.00",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Hitsugi no Chaika",
+            "Score": "7.26",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+            "Score": "8.23",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Arslan Senki (TV)",
+            "Score": "7.69",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Historical",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yu\u2606Gi\u2606Oh! Duel Monsters",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Fantasy",
+                "Shounen"
+            ]
+        }
+    ]
+}

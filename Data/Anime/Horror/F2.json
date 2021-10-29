@@ -1,0 +1,576 @@
+{
+    "Genere": "Horror",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "Berserk: Ougon Jidai-hen III - Kourin",
+            "Score": "8.20",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+            "Score": "7.17",
+            "Genere": [
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul: \"Pinto\"",
+            "Score": "7.23",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tenkuu Shinpan",
+            "Score": "6.80",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+            "Score": "7.90",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Another: The Other - Inga",
+            "Score": "7.30",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Pupa",
+            "Score": "3.36",
+            "Genere": [
+                "Fantasy",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Mnemosyne: Mnemosyne no Musume-tachi",
+            "Score": "7.30",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Sci-Fi",
+                "Shoujo_Ai",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Shingetsutan Tsukihime",
+            "Score": "6.88",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Mystery",
+                "Romance",
+                "Super_Power",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Jigoku Shoujo Futakomori",
+            "Score": "7.92",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gantz 2nd Stage",
+            "Score": "7.07",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Gakkou no Kaidan",
+            "Score": "7.70",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Berserk 2nd Season",
+            "Score": "6.61",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Magic",
+                "Military",
+                "Romance",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Vampire Hunter D (2000)",
+            "Score": "7.89",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Drama",
+                "Romance",
+                "Vampire",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Zombie-Loan",
+            "Score": "6.87",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Deadman Wonderland: Akai Knife Tsukai",
+            "Score": "6.96",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Corpse Party: Missing Footage",
+            "Score": "6.03",
+            "Genere": [
+                "Horror",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shinrei Tantei Yakumo",
+            "Score": "7.33",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Zetman",
+            "Score": "6.87",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Romance",
+                "Sci-Fi",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Itou Junji: Collection",
+            "Score": "6.24",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Juubee Ninpuuchou",
+            "Score": "7.61",
+            "Genere": [
+                "Adventure",
+                "Historical",
+                "Horror",
+                "Supernatural",
+                "Romance",
+                "Samurai",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shikabane Hime: Aka",
+            "Score": "7.22",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boogiepop wa Warawanai",
+            "Score": "7.16",
+            "Genere": [
+                "Psychological",
+                "Supernatural",
+                "Dementia",
+                "Mystery",
+                "Drama",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Blood: The Last Vampire",
+            "Score": "6.90",
+            "Genere": [
+                "Horror",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Sankarea OVA",
+            "Score": "7.23",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Horror",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Koutetsujou no Kabaneri Movie 3: Unato Kessen",
+            "Score": "7.70",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Memories",
+            "Score": "7.73",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Psychological",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken",
+            "Score": "7.36",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Shounen",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Yami Shibai",
+            "Score": "7.03",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kurozuka",
+            "Score": "6.91",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Historical",
+                "Horror",
+                "Romance",
+                "Sci-Fi",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+            "Score": "7.17",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Blood-C: The Last Dark",
+            "Score": "7.18",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Hellsing: The Dawn",
+            "Score": "7.18",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Seinen",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Terra Formars: Revenge",
+            "Score": "6.70",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Space",
+                "Horror",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Gantz:O",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Sankarea: Wagahai mo... Zombie de Aru...",
+            "Score": "7.24",
+            "Genere": [
+                "Comedy",
+                "Horror",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tokyo Majin Gakuen Kenpucho: Tou",
+            "Score": "7.12",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Drama",
+                "Martial_Arts",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kaibutsu Oujo",
+            "Score": "7.00",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Supernatural",
+                "Horror",
+                "Vampire",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shikabane Hime: Kuro",
+            "Score": "7.30",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Blue Gender",
+            "Score": "7.05",
+            "Genere": [
+                "Adventure",
+                "Romance",
+                "Mecha",
+                "Military",
+                "Sci-Fi",
+                "Horror",
+                "Space",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Tasogare Otome x Amnesia: Taima Otome",
+            "Score": "7.51",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Romance",
+                "School",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Vampire Hunter D",
+            "Score": "7.07",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Ookamikakushi",
+            "Score": "6.33",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "JoJo no Kimyou na Bouken: Adventure",
+            "Score": "7.19",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Shounen",
+                "Supernatural",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Kemonozume",
+            "Score": "7.38",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Horror",
+                "Romance",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shiki Specials",
+            "Score": "7.79",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Cossette no Shouzou",
+            "Score": "6.83",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Magic",
+                "Psychological",
+                "Romance",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ayakashi: Japanese Classic Horror",
+            "Score": "7.43",
+            "Genere": [
+                "Mystery",
+                "Historical",
+                "Horror",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Higurashi no Naku Koro ni Kaku: Outbreak",
+            "Score": "7.22",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Thriller"
+            ]
+        }
+    ]
+}

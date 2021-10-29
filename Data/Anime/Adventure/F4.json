@@ -1,0 +1,564 @@
+{
+    "Genere": "Adventure",
+    "Index": 4,
+    "Data": [
+        {
+            "Name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+            "Score": "7.10",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Supernatural",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sakasama no Patema",
+            "Score": "8.02",
+            "Genere": [
+                "Adventure",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden Movie 1",
+            "Score": "7.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Deca-Dence",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "Name": "Ore dake Haireru Kakushi Dungeon",
+            "Score": "6.29",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Harem",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Bleach Movie 1: Memories of Nobody",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Persona 4 the Animation",
+            "Score": "7.51",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Mystery",
+                "Super_Power",
+                "Supernatural",
+                "School"
+            ]
+        },
+        {
+            "Name": "InuYasha: Kanketsu-hen",
+            "Score": "8.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kanata no Astra",
+            "Score": "8.13",
+            "Genere": [
+                "Adventure",
+                "Mystery",
+                "Sci-Fi",
+                "Shounen",
+                "Space"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+            "Score": "7.17",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Isekai Cheat Magician",
+            "Score": "5.39",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Somali to Mori no Kamisama",
+            "Score": "7.82",
+            "Genere": [
+                "Adventure",
+                "Slice_of_Life",
+                "Demons",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Mushishi Zoku Shou 2nd Season",
+            "Score": "8.75",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Historical",
+                "Mystery",
+                "Seinen",
+                "Slice_of_Life",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Zero kara Hajimeru Mahou no Sho",
+            "Score": "7.08",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Kids",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Noragami Aragoto OVA",
+            "Score": "7.88",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+            "Score": "5.54",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Ryuugajou Nanana no Maizoukin (TV)",
+            "Score": "7.16",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Mystery",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Neko no Ongaeshi",
+            "Score": "7.76",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tsubasa Chronicle",
+            "Score": "7.54",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Romance",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shingeki no Bahamut: Virgin Soul",
+            "Score": "7.45",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "One Piece Film: Z",
+            "Score": "8.17",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Digimon Adventure 02",
+            "Score": "7.23",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Kids",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kamisama no Inai Nichiyoubi",
+            "Score": "7.33",
+            "Genere": [
+                "Adventure",
+                "Mystery",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+            "Score": "7.51",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Pokemon: The Origin",
+            "Score": "7.74",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Kids"
+            ]
+        },
+        {
+            "Name": "Ushio to Tora (TV)",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+            "Score": "6.87",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "One Piece Film: Strong World",
+            "Score": "8.15",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Seirei no Moribito",
+            "Score": "8.16",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Historical",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Chrome Shelled Regios",
+            "Score": "7.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "School",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kurenai no Buta",
+            "Score": "7.96",
+            "Genere": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Chainsaw Man",
+            "Score": "N/A",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden Movie 5 - Blood Prison",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Martial_Arts",
+                "Mystery",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+            "Score": "6.34",
+            "Genere": [
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Princess Connect! Re:Dive",
+            "Score": "7.03",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+            "Score": "7.73",
+            "Genere": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Fairy Tail Movie 1: Houou no Miko",
+            "Score": "7.38",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Log Horizon: Entaku Houkai",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Hitsugi no Chaika: Avenging Battle",
+            "Score": "7.20",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shaman King (2021)",
+            "Score": "6.71",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hoshi wo Ou Kodomo",
+            "Score": "7.56",
+            "Genere": [
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Goblin Slayer: Goblin's Crown",
+            "Score": "7.21",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Berserk: Ougon Jidai-hen III - Kourin",
+            "Score": "8.20",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Maou-sama, Retry!",
+            "Score": "6.52",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Z Movie 14: Kami to Kami",
+            "Score": "7.39",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dog Days",
+            "Score": "6.92",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Bleach Movie 4: Jigoku-hen",
+            "Score": "7.60",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Digimon Tamers",
+            "Score": "7.62",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        }
+    ]
+}

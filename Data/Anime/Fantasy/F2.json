@@ -1,0 +1,585 @@
+{
+    "Genere": "Fantasy",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "Kekkai Sensen",
+            "Score": "7.63",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Vampire",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ookami to Koushinryou",
+            "Score": "8.25",
+            "Genere": [
+                "Adventure",
+                "Fantasy",
+                "Historical",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "No Game No Life: Zero",
+            "Score": "8.26",
+            "Genere": [
+                "Game",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+            "Score": "8.33",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Trinity Seven",
+            "Score": "7.12",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mushishi",
+            "Score": "8.68",
+            "Genere": [
+                "Adventure",
+                "Slice_of_Life",
+                "Mystery",
+                "Historical",
+                "Supernatural",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Ookami Kodomo no Ame to Yuki",
+            "Score": "8.62",
+            "Genere": [
+                "Fantasy",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Akatsuki no Yona",
+            "Score": "8.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Romance",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Kami no Tou",
+            "Score": "7.60",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Mystery",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Koutetsujou no Kabaneri",
+            "Score": "7.25",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+            "Score": "7.72",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Military"
+            ]
+        },
+        {
+            "Name": "InuYasha",
+            "Score": "7.85",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Historical",
+                "Demons",
+                "Supernatural",
+                "Magic",
+                "Romance",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Overlord III",
+            "Score": "7.93",
+            "Genere": [
+                "Action",
+                "Game",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Tenki no Ko",
+            "Score": "8.36",
+            "Genere": [
+                "Slice_of_Life",
+                "Drama",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Super",
+            "Score": "7.40",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "Score": "8.37",
+            "Genere": [
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "The God of High School",
+            "Score": "7.05",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Martial_Arts",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Monster Musume no Iru Nichijou",
+            "Score": "7.03",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Ao no Exorcist: Kyoto Fujouou-hen",
+            "Score": "7.39",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+            "Score": "7.23",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Hai to Gensou no Grimgar",
+            "Score": "7.67",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Rosario to Vampire",
+            "Score": "6.80",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Vampire",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online Movie: Ordinal Scale",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Claymore",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Seisen no Shirushi",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "Score": "8.55",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Rokudenashi Majutsu Koushi to Akashic Records",
+            "Score": "7.17",
+            "Genere": [
+                "Action",
+                "Magic",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Tensei shitara Slime Datta Ken 2nd Season",
+            "Score": "8.41",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Amagi Brilliant Park",
+            "Score": "7.50",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Strike the Blood",
+            "Score": "7.10",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Ecchi",
+                "Vampire",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Gakusen Toshi Asterisk",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shinmai Maou no Testament",
+            "Score": "6.76",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Harem",
+                "Demons"
+            ]
+        },
+        {
+            "Name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+            "Score": "6.93",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+            "Score": "8.49",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Parody",
+                "Supernatural",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Alicization - War of Underworld",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Kamigami no Gekirin",
+            "Score": "6.44",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Akagami no Shirayuki-hime",
+            "Score": "7.77",
+            "Genere": [
+                "Fantasy",
+                "Romance",
+                "Drama",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Log Horizon 2nd Season",
+            "Score": "7.60",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Rokka no Yuusha",
+            "Score": "7.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Magic",
+                "Mystery"
+            ]
+        },
+        {
+            "Name": "Dragon Ball GT",
+            "Score": "6.46",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Little Witch Academia (TV)",
+            "Score": "7.86",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "School"
+            ]
+        },
+        {
+            "Name": "Pokemon",
+            "Score": "7.34",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Kids",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Zetsuen no Tempest",
+            "Score": "7.96",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nagi no Asu kara",
+            "Score": "8.04",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Wonder Egg Priority",
+            "Score": "7.95",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Kamisama Hajimemashita",
+            "Score": "8.06",
+            "Genere": [
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Romance",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+            "Score": "7.52",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Fantasy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shakugan no Shana",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "School",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Sword Art Online Alternative: Gun Gale Online",
+            "Score": "7.02",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Game",
+                "Military",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kenpuu Denki Berserk",
+            "Score": "8.50",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Romance",
+                "Seinen",
+                "Supernatural"
+            ]
+        }
+    ]
+}

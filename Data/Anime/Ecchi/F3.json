@@ -1,0 +1,571 @@
+{
+    "Genere": "Ecchi",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Yuragi-sou no Yuuna-san",
+            "Score": "7.03",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kanokon",
+            "Score": "6.43",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Shounen",
+                "Slice_of_Life",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Medaka Box",
+            "Score": "7.05",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Martial_Arts",
+                "School",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "11eyes",
+            "Score": "6.12",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Super_Power",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "MM!",
+            "Score": "7.09",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru Darkness 2nd",
+            "Score": "7.47",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Omamori Himari",
+            "Score": "6.89",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+            "Score": "6.26",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Sekirei: Pure Engagement",
+            "Score": "7.32",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Tejina-senpai",
+            "Score": "6.44",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Punch Line",
+            "Score": "6.97",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Sci-Fi",
+                "Super_Power",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Midara na Ao-chan wa Benkyou ga Dekinai",
+            "Score": "6.76",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Princess Lover!",
+            "Score": "6.75",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ladies versus Butlers!",
+            "Score": "6.61",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Asu no Yoichi!",
+            "Score": "6.75",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kono Naka ni Hitori, Imouto ga Iru!",
+            "Score": "6.57",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Mystery",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Seikoku no Dragonar",
+            "Score": "6.48",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Rail Wars!",
+            "Score": "6.40",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Police",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Soul Eater NOT!",
+            "Score": "5.93",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Bokusatsu Tenshi Dokuro-chan",
+            "Score": "6.57",
+            "Genere": [
+                "Comedy",
+                "Magic",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "High School DxD Specials",
+            "Score": "7.27",
+            "Genere": [
+                "Ecchi",
+                "Comedy",
+                "Harem",
+                "Romance",
+                "Demons",
+                "School"
+            ]
+        },
+        {
+            "Name": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+            "Score": "7.17",
+            "Genere": [
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Asobi ni Iku yo!",
+            "Score": "6.63",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Isekai no Seikishi Monogatari",
+            "Score": "7.81",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Tenjou Tenge",
+            "Score": "6.91",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Martial_Arts",
+                "Comedy",
+                "Super_Power",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "C\u00b3",
+            "Score": "6.63",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "School",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Hyakka Ryouran: Samurai Girls",
+            "Score": "6.80",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "Samurai",
+                "School"
+            ]
+        },
+        {
+            "Name": "Strike the Blood II",
+            "Score": "7.02",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Ecchi",
+                "Vampire",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Nourin",
+            "Score": "6.79",
+            "Genere": [
+                "Comedy",
+                "Parody",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Hoshizora e Kakaru Hashi",
+            "Score": "6.75",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "No Game No Life Specials",
+            "Score": "6.75",
+            "Genere": [
+                "Ecchi",
+                "Fantasy",
+                "Game"
+            ]
+        },
+        {
+            "Name": "Tsugumomo",
+            "Score": "7.06",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "School",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Strike Witches",
+            "Score": "6.98",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Magic",
+                "Military",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "To LOVE-Ru OVA",
+            "Score": "7.29",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Harem",
+                "School",
+                "Sci-Fi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fairy Tail OVA",
+            "Score": "7.49",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Magic",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Killing Bites",
+            "Score": "6.60",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Sci-Fi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+            "Score": "6.24",
+            "Genere": [
+                "Comedy",
+                "Ecchi",
+                "Romance",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Freezing Vibration",
+            "Score": "6.77",
+            "Genere": [
+                "Action",
+                "Military",
+                "Sci-Fi",
+                "Harem",
+                "Drama",
+                "Romance",
+                "Ecchi",
+                "Martial_Arts",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Monster Musume no Oishasan",
+            "Score": "6.51",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Midori no Hibi",
+            "Score": "7.27",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gantz 2nd Stage",
+            "Score": "7.07",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+            "Score": "7.26",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Magic",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Akaneiro ni Somaru Saka",
+            "Score": "6.44",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Ikkitousen",
+            "Score": "6.43",
+            "Genere": [
+                "Ecchi",
+                "Super_Power",
+                "Martial_Arts",
+                "School"
+            ]
+        },
+        {
+            "Name": "Peter Grill to Kenja no Jikan",
+            "Score": "5.48",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Okusama ga Seitokaichou!+!",
+            "Score": "6.62",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "DearS",
+            "Score": "6.59",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shokugeki no Souma: Ni no Sara OVA",
+            "Score": "7.50",
+            "Genere": [
+                "Ecchi",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Triage X",
+            "Score": "6.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
+            "Score": "N/A",
+            "Genere": [
+                "Drama",
+                "Magic",
+                "Ecchi",
+                "Fantasy"
+            ]
+        }
+    ]
+}

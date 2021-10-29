@@ -1,0 +1,533 @@
+{
+    "Genere": "Psychological",
+    "Index": 3,
+    "Data": [
+        {
+            "Name": "Death Note: Rewrite",
+            "Score": "7.70",
+            "Genere": [
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Pupa",
+            "Score": "3.36",
+            "Genere": [
+                "Fantasy",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Bokura no",
+            "Score": "7.65",
+            "Genere": [
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kokkoku",
+            "Score": "7.02",
+            "Genere": [
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Mystery",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+            "Score": "8.25",
+            "Genere": [
+                "Game",
+                "Psychological",
+                "Thriller",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "DRAMAtical Murder",
+            "Score": "6.07",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Super_Power",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Subete ga F ni Naru",
+            "Score": "7.27",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Jigoku Shoujo Futakomori",
+            "Score": "7.92",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gantz 2nd Stage",
+            "Score": "7.07",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Casshern Sins",
+            "Score": "7.52",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Psychological",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Innocence",
+            "Score": "7.81",
+            "Genere": [
+                "Military",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Jin-Rou",
+            "Score": "7.78",
+            "Genere": [
+                "Military",
+                "Police",
+                "Psychological",
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Selector Infected WIXOSS",
+            "Score": "7.25",
+            "Genere": [
+                "Game",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Tenkuu no Escaflowne",
+            "Score": "7.69",
+            "Genere": [
+                "Adventure",
+                "Psychological",
+                "Romance",
+                "Fantasy",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Yuukoku no Moriarty 2nd Season",
+            "Score": "8.22",
+            "Genere": [
+                "Mystery",
+                "Historical",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shinreigari",
+            "Score": "7.45",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Yuuki Yuuna wa Yuusha de Aru",
+            "Score": "7.37",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "xxxHOLiC Kei",
+            "Score": "8.24",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Psychological",
+                "Supernatural",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden (TV)",
+            "Score": "6.81",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Ch\u00e4oS;Child",
+            "Score": "6.36",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Babylon",
+            "Score": "6.78",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Itou Junji: Collection",
+            "Score": "6.24",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "RahXephon",
+            "Score": "7.41",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Mecha",
+                "Music",
+                "Mystery",
+                "Psychological",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Kanojo to Kanojo no Neko: Everything Flows",
+            "Score": "7.69",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+            "Score": "6.24",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Boogiepop wa Warawanai",
+            "Score": "7.16",
+            "Genere": [
+                "Psychological",
+                "Supernatural",
+                "Dementia",
+                "Mystery",
+                "Drama",
+                "Horror"
+            ]
+        },
+        {
+            "Name": "Shigurui",
+            "Score": "7.40",
+            "Genere": [
+                "Action",
+                "Historical",
+                "Psychological",
+                "Drama",
+                "Martial_Arts",
+                "Samurai",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "7 Seeds",
+            "Score": "6.56",
+            "Genere": [
+                "Adventure",
+                "Drama",
+                "Mystery",
+                "Psychological",
+                "Romance",
+                "Sci-Fi",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Wonder Egg Priority Special",
+            "Score": "5.09",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Jigoku Shoujo Mitsuganae",
+            "Score": "7.64",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Tekkon Kinkreet",
+            "Score": "7.98",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Yuri Kuma Arashi",
+            "Score": "7.06",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Fantasy",
+                "School",
+                "Seinen",
+                "Shoujo_Ai"
+            ]
+        },
+        {
+            "Name": "Memories",
+            "Score": "7.73",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Psychological",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Blame! Movie",
+            "Score": "7.09",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kanojo to Kanojo no Neko",
+            "Score": "7.32",
+            "Genere": [
+                "Drama",
+                "Psychological",
+                "Romance",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+            "Score": "7.94",
+            "Genere": [
+                "Game",
+                "Psychological",
+                "Thriller",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+            "Score": "7.17",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Shigofumi",
+            "Score": "7.48",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Pet",
+            "Score": "6.46",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Koukaku Kidoutai 2.0",
+            "Score": "8.00",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Mecha",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "The Big O",
+            "Score": "7.53",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu",
+            "Score": "7.13",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Gantz:O",
+            "Score": "7.43",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kuuchuu Buranko",
+            "Score": "7.96",
+            "Genere": [
+                "Comedy",
+                "Psychological",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Dead Leaves",
+            "Score": "7.22",
+            "Genere": [
+                "Adventure",
+                "Psychological",
+                "Comedy",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Koi Kaze",
+            "Score": "7.10",
+            "Genere": [
+                "Drama",
+                "Psychological",
+                "Romance",
+                "Seinen",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Selector Spread WIXOSS",
+            "Score": "7.38",
+            "Genere": [
+                "Game",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Shisha no Teikoku",
+            "Score": "6.90",
+            "Genere": [
+                "Sci-Fi",
+                "Historical",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Evil or Live",
+            "Score": "5.81",
+            "Genere": [
+                "Psychological",
+                "School"
+            ]
+        }
+    ]
+}

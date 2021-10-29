@@ -1,0 +1,564 @@
+{
+    "Genere": "Psychological",
+    "Index": 1,
+    "Data": [
+        {
+            "Name": "Death Note",
+            "Score": "8.63",
+            "Genere": [
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul",
+            "Score": "7.80",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Steins;Gate",
+            "Score": "9.10",
+            "Genere": [
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "Score": "8.27",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Thriller",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Mirai Nikki (TV)",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boku dake ga Inai Machi",
+            "Score": "8.34",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kiseijuu: Sei no Kakuritsu",
+            "Score": "8.37",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Yakusoku no Neverland",
+            "Score": "8.59",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul \u221aA",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Death Parade",
+            "Score": "8.18",
+            "Genere": [
+                "Game",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Psycho-Pass",
+            "Score": "8.36",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Neon Genesis Evangelion",
+            "Score": "8.33",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Dementia",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Elfen Lied",
+            "Score": "7.54",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "Score": "8.41",
+            "Genere": [
+                "Comedy",
+                "Psychological",
+                "Romance",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kakegurui",
+            "Score": "7.31",
+            "Genere": [
+                "Game",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mahou Shoujo Madoka\u2605Magica",
+            "Score": "8.36",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Zankyou no Terror",
+            "Score": "8.11",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+            "Score": "8.68",
+            "Genere": [
+                "Comedy",
+                "Psychological",
+                "Romance",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul:re",
+            "Score": "6.43",
+            "Genere": [
+                "Action",
+                "Psychological",
+                "Supernatural",
+                "Mystery",
+                "Drama",
+                "Horror",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "Score": "8.42",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Thriller",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+            "Score": "7.25",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "School"
+            ]
+        },
+        {
+            "Name": "Btooom!",
+            "Score": "7.35",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+            "Score": "7.84",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "School"
+            ]
+        },
+        {
+            "Name": "Monster",
+            "Score": "8.79",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Seinen",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Higurashi no Naku Koro ni",
+            "Score": "7.92",
+            "Genere": [
+                "Mystery",
+                "Dementia",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Yakusoku no Neverland 2nd Season",
+            "Score": "5.50",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Steins;Gate 0",
+            "Score": "8.51",
+            "Genere": [
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Kotonoha no Niwa",
+            "Score": "7.98",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "FLCL",
+            "Score": "8.03",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Dementia",
+                "Psychological",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Neon Genesis Evangelion: The End of Evangelion",
+            "Score": "8.53",
+            "Genere": [
+                "Sci-Fi",
+                "Dementia",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Shinsekai yori",
+            "Score": "8.33",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Beastars",
+            "Score": "7.95",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul:re 2nd Season",
+            "Score": "6.37",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "NHK ni Youkoso!",
+            "Score": "8.32",
+            "Genere": [
+                "Comedy",
+                "Psychological",
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "Score": "8.55",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Kakegurui\u00d7\u00d7",
+            "Score": "7.23",
+            "Genere": [
+                "Drama",
+                "Game",
+                "Mystery",
+                "Psychological",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Psycho-Pass 2",
+            "Score": "7.41",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Serial Experiments Lain",
+            "Score": "8.05",
+            "Genere": [
+                "Dementia",
+                "Drama",
+                "Mystery",
+                "Psychological",
+                "Sci-Fi",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ergo Proxy",
+            "Score": "7.91",
+            "Genere": [
+                "Psychological",
+                "Mystery",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Zetsuen no Tempest",
+            "Score": "7.96",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Wonder Egg Priority",
+            "Score": "7.95",
+            "Genere": [
+                "Drama",
+                "Fantasy",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Koukaku Kidoutai",
+            "Score": "8.29",
+            "Genere": [
+                "Action",
+                "Mecha",
+                "Police",
+                "Psychological",
+                "Sci-Fi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Grisaia no Kajitsu",
+            "Score": "7.52",
+            "Genere": [
+                "Drama",
+                "Harem",
+                "Psychological",
+                "Romance",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shiki",
+            "Score": "7.77",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Vampire"
+            ]
+        },
+        {
+            "Name": "Inuyashiki",
+            "Score": "7.68",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Psychological",
+                "Sci-Fi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Satsuriku no Tenshi",
+            "Score": "6.92",
+            "Genere": [
+                "Adventure",
+                "Horror",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Perfect Blue",
+            "Score": "8.50",
+            "Genere": [
+                "Dementia",
+                "Drama",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Higurashi no Naku Koro ni Kai",
+            "Score": "8.21",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Great Pretender",
+            "Score": "8.31",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Mystery",
+                "Comedy",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Paprika",
+            "Score": "8.06",
+            "Genere": [
+                "Dementia",
+                "Fantasy",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Sci-Fi",
+                "Thriller"
+            ]
+        }
+    ]
+}

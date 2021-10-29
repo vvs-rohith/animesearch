@@ -1,0 +1,549 @@
+{
+    "Genere": "Psychological",
+    "Index": 2,
+    "Data": [
+        {
+            "Name": "Evangelion: 1.0 You Are (Not) Alone",
+            "Score": "8.05",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Evangelion: 2.0 You Can (Not) Advance",
+            "Score": "8.33",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Gakkougurashi!",
+            "Score": "7.62",
+            "Genere": [
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "School",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Yojouhan Shinwa Taikei",
+            "Score": "8.60",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Psychological",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Grisaia no Rakuen",
+            "Score": "7.82",
+            "Genere": [
+                "Drama",
+                "Harem",
+                "Psychological",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Mousou Dairinin",
+            "Score": "7.68",
+            "Genere": [
+                "Mystery",
+                "Dementia",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Mahou Shoujo Madoka\u2605Magica Movie 3: Hangyaku no Monogatari",
+            "Score": "8.45",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Mirai Nikki: Redial",
+            "Score": "7.36",
+            "Genere": [
+                "Action",
+                "Psychological",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Jigoku Shoujo",
+            "Score": "7.64",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gantz",
+            "Score": "7.03",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi"
+            ]
+        },
+        {
+            "Name": "Ping Pong the Animation",
+            "Score": "8.62",
+            "Genere": [
+                "Drama",
+                "Psychological",
+                "Seinen",
+                "Sports"
+            ]
+        },
+        {
+            "Name": "Evangelion: 3.0 You Can (Not) Redo",
+            "Score": "7.61",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+            "Score": "7.31",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Beastars 2nd Season",
+            "Score": "7.97",
+            "Genere": [
+                "Slice_of_Life",
+                "Psychological",
+                "Drama",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+            "Score": "8.28",
+            "Genere": [
+                "Game",
+                "Psychological",
+                "Thriller",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "B: The Beginning",
+            "Score": "7.27",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "xxxHOLiC",
+            "Score": "8.00",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ch\u00e4oS;HEAd",
+            "Score": "6.34",
+            "Genere": [
+                "Sci-Fi",
+                "Harem",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Mawaru Penguindrum",
+            "Score": "7.97",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Dementia",
+                "Psychological",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+            "Score": "7.44",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "School"
+            ]
+        },
+        {
+            "Name": "Id:Invaded",
+            "Score": "7.87",
+            "Genere": [
+                "Sci-Fi",
+                "Mystery",
+                "Police",
+                "Psychological"
+            ]
+        },
+        {
+            "Name": "Mononoke",
+            "Score": "8.43",
+            "Genere": [
+                "Mystery",
+                "Historical",
+                "Horror",
+                "Demons",
+                "Psychological",
+                "Supernatural",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kino no Tabi: The Beautiful World",
+            "Score": "8.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Psychological",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Yuukoku no Moriarty",
+            "Score": "8.10",
+            "Genere": [
+                "Mystery",
+                "Historical",
+                "Psychological",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Haibane Renmei",
+            "Score": "7.98",
+            "Genere": [
+                "Slice_of_Life",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Happy Sugar Life",
+            "Score": "6.85",
+            "Genere": [
+                "Horror",
+                "Psychological",
+                "Drama",
+                "Shounen",
+                "Shoujo_Ai"
+            ]
+        },
+        {
+            "Name": "Omoide no Marnie",
+            "Score": "8.08",
+            "Genere": [
+                "Mystery",
+                "Psychological",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Munou na Nana",
+            "Score": "7.24",
+            "Genere": [
+                "Psychological",
+                "Shounen",
+                "Super_Power",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Death Billiards",
+            "Score": "7.92",
+            "Genere": [
+                "Game",
+                "Mystery",
+                "Psychological",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Psycho-Pass 3",
+            "Score": "7.50",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Neon Genesis Evangelion: Death & Rebirth",
+            "Score": "7.45",
+            "Genere": [
+                "Drama",
+                "Mecha",
+                "Psychological",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Higurashi no Naku Koro ni Gou",
+            "Score": "7.23",
+            "Genere": [
+                "Dementia",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Texhnolyze",
+            "Score": "7.76",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "One Outs",
+            "Score": "8.35",
+            "Genere": [
+                "Sports",
+                "Psychological",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Mayoiga",
+            "Score": "5.51",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Horror",
+                "Psychological",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Umineko no Naku Koro ni",
+            "Score": "7.10",
+            "Genere": [
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3rd Season",
+            "Score": "N/A",
+            "Genere": [
+                "Comedy",
+                "Psychological",
+                "Romance",
+                "School",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Boogiepop wa Warawanai (2019)",
+            "Score": "7.09",
+            "Genere": [
+                "Mystery",
+                "Dementia",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama"
+            ]
+        },
+        {
+            "Name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "Score": "8.10",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Aoi Bungaku Series",
+            "Score": "7.72",
+            "Genere": [
+                "Drama",
+                "Historical",
+                "Psychological",
+                "Seinen",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+            "Score": "7.60",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Thriller",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Aku no Hana",
+            "Score": "7.15",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Romance",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mahou Shoujo Site",
+            "Score": "6.50",
+            "Genere": [
+                "Drama",
+                "Horror",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Mahou Shoujo Madoka\u2605Magica Movie 2: Eien no Monogatari",
+            "Score": "8.39",
+            "Genere": [
+                "Drama",
+                "Magic",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+            "Score": "7.17",
+            "Genere": [
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Ecchi",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Shoujo Kakumei Utena",
+            "Score": "8.19",
+            "Genere": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Mystery",
+                "Psychological",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Mahou Shoujo Madoka\u2605Magica Movie 1: Hajimari no Monogatari",
+            "Score": "8.23",
+            "Genere": [
+                "Psychological",
+                "Drama",
+                "Magic",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul: \"Pinto\"",
+            "Score": "7.23",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Gunslinger Girl",
+            "Score": "7.41",
+            "Genere": [
+                "Action",
+                "Psychological",
+                "Military",
+                "Drama",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Higurashi no Naku Koro ni Rei",
+            "Score": "7.42",
+            "Genere": [
+                "Mystery",
+                "Comedy",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        }
+    ]
+}

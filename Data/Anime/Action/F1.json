@@ -1,0 +1,590 @@
+{
+    "Genere": "Action",
+    "Index": 1,
+    "Data": [
+        {
+            "Name": "Shingeki no Kyojin",
+            "Score": "8.51",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fullmetal Alchemist: Brotherhood",
+            "Score": "9.16",
+            "Genere": [
+                "Action",
+                "Military",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online",
+            "Score": "7.21",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "One Punch Man",
+            "Score": "8.53",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super_Power",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia",
+            "Score": "8.01",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "School",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul",
+            "Score": "7.80",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Naruto",
+            "Score": "7.94",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Hunter x Hunter (2011)",
+            "Score": "9.07",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin Season 2",
+            "Score": "8.49",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia 2nd Season",
+            "Score": "8.23",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kimetsu no Yaiba",
+            "Score": "8.58",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Historical",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Naruto: Shippuuden",
+            "Score": "8.20",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Martial_Arts",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Code Geass: Hangyaku no Lelouch",
+            "Score": "8.71",
+            "Genere": [
+                "Action",
+                "Military",
+                "Sci-Fi",
+                "Super_Power",
+                "Drama",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Angel Beats!",
+            "Score": "8.11",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Drama",
+                "School",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Noragami",
+            "Score": "7.98",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mirai Nikki (TV)",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia 3rd Season",
+            "Score": "8.16",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai",
+            "Score": "7.79",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Akame ga Kill!",
+            "Score": "7.49",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Sword Art Online II",
+            "Score": "6.73",
+            "Genere": [
+                "Action",
+                "Game",
+                "Adventure",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin Season 3",
+            "Score": "8.63",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "One Piece",
+            "Score": "8.58",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Ao no Exorcist",
+            "Score": "7.55",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Fantasy",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Ansatsu Kyoushitsu",
+            "Score": "8.11",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Mob Psycho 100",
+            "Score": "8.48",
+            "Genere": [
+                "Action",
+                "Slice_of_Life",
+                "Comedy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin Season 3 Part 2",
+            "Score": "9.10",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Military",
+                "Mystery",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Fairy Tail",
+            "Score": "7.61",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Bleach",
+            "Score": "7.81",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Super_Power",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kiseijuu: Sei no Kakuritsu",
+            "Score": "8.37",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Horror",
+                "Psychological",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Tokyo Ghoul \u221aA",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Kill la Kill",
+            "Score": "8.07",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "Ecchi",
+                "School"
+            ]
+        },
+        {
+            "Name": "Code Geass: Hangyaku no Lelouch R2",
+            "Score": "8.91",
+            "Genere": [
+                "Action",
+                "Military",
+                "Sci-Fi",
+                "Super_Power",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Cowboy Bebop",
+            "Score": "8.77",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Sci-Fi",
+                "Space"
+            ]
+        },
+        {
+            "Name": "Jujutsu Kaisen (TV)",
+            "Score": "8.75",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Supernatural",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Soul Eater",
+            "Score": "7.86",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Psycho-Pass",
+            "Score": "8.36",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Police",
+                "Psychological",
+                "Thriller"
+            ]
+        },
+        {
+            "Name": "Neon Genesis Evangelion",
+            "Score": "8.33",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Dementia",
+                "Psychological",
+                "Drama",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Tengen Toppa Gurren Lagann",
+            "Score": "8.65",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Adventure",
+                "Comedy",
+                "Mecha"
+            ]
+        },
+        {
+            "Name": "Elfen Lied",
+            "Score": "7.54",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Psychological",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Fullmetal Alchemist",
+            "Score": "8.14",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Highschool of the Dead",
+            "Score": "7.11",
+            "Genere": [
+                "Action",
+                "Horror",
+                "Supernatural",
+                "Ecchi",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin: The Final Season",
+            "Score": "8.95",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Fate/Zero",
+            "Score": "8.32",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Boku no Hero Academia 4th Season",
+            "Score": "8.01",
+            "Genere": [
+                "Action",
+                "Comedy",
+                "Super_Power",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Darling in the FranXX",
+            "Score": "7.28",
+            "Genere": [
+                "Action",
+                "Drama",
+                "Mecha",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Durarara!!",
+            "Score": "8.15",
+            "Genere": [
+                "Action",
+                "Mystery",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "One Punch Man 2nd Season",
+            "Score": "7.42",
+            "Genere": [
+                "Action",
+                "Sci-Fi",
+                "Comedy",
+                "Parody",
+                "Super_Power",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Overlord",
+            "Score": "7.93",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Game",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Noragami Aragoto",
+            "Score": "8.19",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Shounen"
+            ]
+        }
+    ]
+}

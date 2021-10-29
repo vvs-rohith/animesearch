@@ -1,0 +1,545 @@
+{
+    "Genere": "Fantasy",
+    "Index": 4,
+    "Data": [
+        {
+            "Name": "Tate no Yuusha no Nariagari Season 2",
+            "Score": "N/A",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Saijaku Muhai no Bahamut",
+            "Score": "6.58",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "Mecha",
+                "School"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+            "Score": "7.86",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shinmai Maou no Testament Burst",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Romance",
+                "Harem",
+                "Demons"
+            ]
+        },
+        {
+            "Name": "Isekai Quartet",
+            "Score": "7.42",
+            "Genere": [
+                "Comedy",
+                "Fantasy",
+                "Parody"
+            ]
+        },
+        {
+            "Name": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+            "Score": "7.70",
+            "Genere": [
+                "Sci-Fi",
+                "Drama",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Seireitsukai no Blade Dance",
+            "Score": "6.77",
+            "Genere": [
+                "Action",
+                "Harem",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+            "Score": "7.50",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Drama",
+                "Romance",
+                "Fantasy",
+                "School",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Kai",
+            "Score": "7.71",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Martial_Arts",
+                "Shounen",
+                "Super_Power"
+            ]
+        },
+        {
+            "Name": "Outbreak Company",
+            "Score": "7.26",
+            "Genere": [
+                "Harem",
+                "Comedy",
+                "Parody",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kaze no Tani no Nausica\u00e4",
+            "Score": "8.38",
+            "Genere": [
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+            "Score": "8.44",
+            "Genere": [
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+            "Score": "8.42",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Demons",
+                "Fantasy",
+                "Magic"
+            ]
+        },
+        {
+            "Name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "Score": "7.55",
+            "Genere": [
+                "Military",
+                "Comedy",
+                "Historical",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kamisama Hajimemashita\u25ce",
+            "Score": "8.17",
+            "Genere": [
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Romance",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Madan no Ou to Vanadis",
+            "Score": "7.15",
+            "Genere": [
+                "Adventure",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Wolf's Rain",
+            "Score": "7.82",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Mystery",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "Name": "Violet Evergarden Movie",
+            "Score": "8.87",
+            "Genere": [
+                "Slice_of_Life",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Berserk",
+            "Score": "6.32",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Demons",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Military",
+                "Romance",
+                "Seinen",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Akagami no Shirayuki-hime 2nd Season",
+            "Score": "7.99",
+            "Genere": [
+                "Drama",
+                "Romance",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Tales of Zestiria the Cross",
+            "Score": "7.28",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Shakugan no Shana II (Second)",
+            "Score": "7.59",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Drama",
+                "Romance",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Machine-Doll wa Kizutsukanai",
+            "Score": "7.11",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Shingeki no Kyojin: The Final Season Part 2",
+            "Score": "N/A",
+            "Genere": [
+                "Action",
+                "Military",
+                "Mystery",
+                "Super_Power",
+                "Drama",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+            "Score": "8.05",
+            "Genere": [
+                "Magic",
+                "Adventure",
+                "Fantasy",
+                "Comedy",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Little Witch Academia",
+            "Score": "7.83",
+            "Genere": [
+                "Adventure",
+                "Comedy",
+                "Magic",
+                "Fantasy",
+                "School"
+            ]
+        },
+        {
+            "Name": "Mairimashita! Iruma-kun",
+            "Score": "7.72",
+            "Genere": [
+                "Comedy",
+                "Demons",
+                "Supernatural",
+                "Fantasy",
+                "School",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Devil May Cry",
+            "Score": "6.96",
+            "Genere": [
+                "Action",
+                "Demons",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Plunderer",
+            "Score": "6.54",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+            "Score": "7.70",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Military"
+            ]
+        },
+        {
+            "Name": "Sword Art Online: Extra Edition",
+            "Score": "6.57",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Game",
+                "Romance"
+            ]
+        },
+        {
+            "Name": "Witch Craft Works",
+            "Score": "7.04",
+            "Genere": [
+                "Action",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Seinen"
+            ]
+        },
+        {
+            "Name": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+            "Score": "8.71",
+            "Genere": [
+                "Sci-Fi",
+                "Adventure",
+                "Mystery",
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "BNA",
+            "Score": "7.40",
+            "Genere": [
+                "Action",
+                "Super_Power",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fate/stay night: Unlimited Blade Works Prologue",
+            "Score": "8.08",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Majo no Tabitabi",
+            "Score": "7.55",
+            "Genere": [
+                "Adventure",
+                "Magic",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+            "Score": "8.57",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Magic",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Taimadou Gakuen 35 Shiken Shoutai",
+            "Score": "6.86",
+            "Genere": [
+                "Action",
+                "Ecchi",
+                "Fantasy",
+                "Harem",
+                "Military",
+                "Romance",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Karigurashi no Arrietty",
+            "Score": "7.91",
+            "Genere": [
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kobayashi-san Chi no Maid Dragon S",
+            "Score": "8.44",
+            "Genere": [
+                "Comedy",
+                "Fantasy",
+                "Slice_of_Life"
+            ]
+        },
+        {
+            "Name": "Densetsu no Yuusha no Densetsu",
+            "Score": "7.57",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Nanatsu no Taizai: Fundo no Shinpan",
+            "Score": "6.63",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Supernatural",
+                "Magic",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Amnesia",
+            "Score": "6.04",
+            "Genere": [
+                "Harem",
+                "Mystery",
+                "Romance",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Dragon Ball Super: Broly",
+            "Score": "8.11",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Super_Power",
+                "Martial_Arts",
+                "Fantasy",
+                "Shounen"
+            ]
+        },
+        {
+            "Name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+            "Score": "6.87",
+            "Genere": [
+                "Comedy",
+                "Romance",
+                "Ecchi",
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Seiken Tsukai no World Break",
+            "Score": "6.85",
+            "Genere": [
+                "Action",
+                "Fantasy",
+                "Harem",
+                "Romance",
+                "School",
+                "Supernatural"
+            ]
+        },
+        {
+            "Name": "Assassins Pride",
+            "Score": "5.92",
+            "Genere": [
+                "Fantasy"
+            ]
+        },
+        {
+            "Name": "Kumo Desu ga, Nani ka?",
+            "Score": "7.46",
+            "Genere": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Magic",
+                "Mystery"
+            ]
+        },
+        {
+            "Name": "Soredemo Sekai wa Utsukushii",
+            "Score": "7.64",
+            "Genere": [
+                "Adventure",
+                "Romance",
+                "Fantasy",
+                "Shoujo"
+            ]
+        },
+        {
+            "Name": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+            "Score": "8.40",
+            "Genere": [
+                "Slice_of_Life",
+                "Drama",
+                "Fantasy"
+            ]
+        }
+    ]
+}
